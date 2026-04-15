@@ -4,7 +4,7 @@ AI poker night toolkit for iPhone, iPad, Apple TV, and Apple Watch.
 
 ## Need Help?
 
-Email: blindtimerapp@gmail.com
+Email: callahanapps@gmail.com
 
 ## Frequently Asked Questions
 
@@ -43,7 +43,7 @@ Yes. Put the blinds on the big screen by entering a room code — the TV mirrors
 
 ## Report a Bug
 
-Found an issue? Email blindtimerapp@gmail.com with:
+Found an issue? Email callahanapps@gmail.com with:
 - What you were trying to do
 - What happened instead
 - Your device model and iOS version

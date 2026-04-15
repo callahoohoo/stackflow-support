@@ -65,7 +65,7 @@ This Privacy Policy may be updated from time to time. Any changes will be reflec
 ## Contact
 
 If you have questions about this Privacy Policy, contact:
-blindtimerapp@gmail.com
+callahanapps@gmail.com
 
 Ben Callahan
 USA

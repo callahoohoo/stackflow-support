@@ -9,4 +9,4 @@ AI poker night toolkit for iPhone, iPad, Apple TV, and Apple Watch.
 
 ## Contact
 
-For support or feedback: blindtimerapp@gmail.com
+For support or feedback: callahanapps@gmail.com
