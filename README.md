@@ -1,11 +1,11 @@
-# Blind Timer
+# Stackflow
 
-The elegant poker tournament timer for iPhone and iPad.
+AI poker night toolkit for iPhone, iPad, Apple TV, and Apple Watch.
 
 ## Links
 
-- [Support](https://callahoohoo.github.io/blindtimer-support/)
-- [Privacy Policy](https://callahoohoo.github.io/blindtimer-support/privacy)
+- [Support](https://callahoohoo.github.io/stackflow-support/)
+- [Privacy Policy](https://callahoohoo.github.io/stackflow-support/privacy)
 
 ## Contact
 
