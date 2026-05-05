@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Stackflow**
-Last Updated: April 2026
+Last Updated: May 2026
 
 ## Overview
 
@@ -29,17 +29,16 @@ This data never leaves your device and is not accessible to us.
 
 ## AI Assistant
 
-When using the AI assistant, your typed or spoken message is sent to our server proxy (hosted on Cloudflare) and forwarded to Anthropic's Claude API to generate a response. To make this work:
+The AI assistant runs **entirely on your device** using Apple's Foundation Models framework — the same on-device model that powers Apple Intelligence. Your conversations never leave your iPhone or iPad.
 
-- The message text you send to the AI is transmitted to the AI provider
-- Game state relevant to your question (current blind level, stack sizes, player count) is included so the assistant can give grounded answers
-- An anonymous device identifier is used solely for rate limiting
-- Messages are not stored server-side beyond what's needed to return a response
-- No personal identifying information is attached to these requests
+- No network requests are made for AI features
+- No third-party AI provider is involved
+- No chat content, prompts, or responses are transmitted to any server
+- No usage tracking or rate limiting (none is needed; there's no remote cost)
 
-Speech recognition for voice input runs **on-device** (no audio leaves your phone). Only the resulting text is sent to the AI when you submit it.
+Speech recognition for voice input also runs on-device. No audio leaves your phone.
 
-If you don't use the AI assistant, no data is transmitted by the app.
+The AI assistant requires Apple Intelligence and only operates on supported hardware running iOS 26 or later.
 
 ## Live Activity
 
