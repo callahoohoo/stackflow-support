@@ -1,49 +1,57 @@
 # Stackflow Support
 
-AI poker night toolkit for iPhone, iPad, Apple TV, and Apple Watch.
+Stackflow Tournament Tracker: the poker night timer for iPhone and iPad. Free, no account, and your games and players stay on your device.
 
-## Need Help?
+## Need help?
 
 Email: callahanapps@gmail.com
 
-## Frequently Asked Questions
+## How Stackflow is laid out
 
-### How do I set up a tournament with the AI?
-On first launch, the AI voice interface appears. Describe your game — "6 players, $20 buy-in, 3 hours, red white and blue chips" — and Stackflow builds the blind structure, chip distribution, and breaks automatically. You can also tap the sparkle button on the timer screen to talk to the AI any time.
+- **Home** is the hub: the clock, the blinds, what's next, and the shot clock, with your structure, starting stack, players and prize pool one tap away. The button at the top switches between the hub and a big timer.
+- **Structure** is your list of levels and breaks.
+- **AI** helps you set up a game by asking in plain words. It runs on your device and needs Apple Intelligence.
+- **Players** is tonight's table: who is in, rebuys, finishing order and payouts.
+- **Settings** has sounds, the shot clock, sharing, and these support links.
 
-### How do I track players?
-Tap the Players icon on the timer screen to add your roster, record buy-ins and rebuys, and mark eliminations with finish positions. When the game ends, tap Settle Up to see payout splits and who owes who.
+## Frequently asked questions
 
-### How do I remove the Lock Screen timer?
-Pause the timer or turn off "Lock Screen Timer" in Settings.
+### How do I build a blind structure?
+Open Structure. Tap **Build for me**, answer a few questions (chips, players, time you have) and Stackflow builds the levels and breaks. Or tap **+ Level** and **+ Break** to add your own, and **Edit all** to change them together.
 
-### Can I share my tournament preset?
-Yes. In the Structure view, tap the share icon to export your preset.
+### How do I save a game and use it again?
+In Structure, tap **Save** to name the game. Tap **Saved games** to load one you kept. Saving is on your device only.
 
-### How do I create a custom blind structure manually?
-Tap "Structure" from the main timer, then use "Smart Structure" for automatic generation or manually add levels and breaks.
-
-### Can I adjust the time during a level?
-Yes. Drag the timer ring clockwise or counterclockwise to add or remove time. You can also use the +1/-1 minute buttons. Or just say "add 5 minutes" to the AI.
+### How do I change the time on a level?
+Drag the timer ring, or use the +1 and -1 minute buttons.
 
 ### How does the shot clock work?
-Tap the shot clock icon to start a per-hand decision timer. Configure the duration (15/30/45/60s) in Settings. Haptic and audio alerts fire when time's up.
+Tap the stopwatch button on Home to start a per-hand clock. Choose its length and sound in Settings.
 
-### How do I change the theme?
-Go to Settings and tap "Theme" to choose between West, Neon, and Light themes.
+### How do I run a game with players?
+Open Players and add names (your regulars are kept for next time). Tap **Draw seats** for a random seating and button. Tap **Rebuy** when someone rebuys and **Out** when they bust. The prize pool follows the buy-ins and rebuys.
 
-### Does the app work offline?
-The timer, player tracking, payouts, and shot clock all work offline. The AI assistant requires an internet connection. Basic timer voice commands ("pause," "next level," "add 5 minutes") work offline via on-device speech recognition.
+### Where do I set the buy-in and the rebuy?
+The buy-in is set in the stack calculator (tap the teal **Buy-in** amount on Players to open it). The rebuy amount, and when rebuys close, are on the Rebuy line in Players.
 
-### Does it work with Apple Watch?
-Yes. Pair your Watch to see live blinds and time remaining on your wrist. Navigate levels and pause/resume from the Watch. Haptic taps alert you when blinds are about to change.
+### How do payouts work?
+Tap **Payouts** in Players. Pick how many places pay and the split, or let 2nd get their money back. When the game ends, Stackflow shows who gets paid and who pays who.
 
-### Does it work with Apple TV?
-Yes. Put the blinds on the big screen by entering a room code — the TV mirrors your timer live.
+### Can I show the clock on another screen?
+Yes. In Settings, tap **Share to a TV or another device**, then **Host a room** and share the 4-character code. On the other device, tap **Join a room** and enter the code.
 
-## Report a Bug
+### Does Stackflow cost anything?
+No. It is free and has no account.
 
-Found an issue? Email callahanapps@gmail.com with:
+### Where is my data kept?
+Your games, players and settings stay on your device. Sharing a room sends the live clock to the devices that join. Read the privacy policy for details.
+
+### Does it work offline?
+The timer, players and payouts work without internet. Sharing a room needs a connection.
+
+## Report a bug
+
+Email callahanapps@gmail.com with:
 - What you were trying to do
 - What happened instead
 - Your device model and iOS version
