@@ -2,10 +2,6 @@
 
 Stackflow Tournament Tracker: the poker night timer for iPhone and iPad. Free, no account, and your games and players stay on your device.
 
-## Need help?
-
-Email: callahanapps@gmail.com
-
 ## How Stackflow is laid out
 
 - **Home** is the hub: the clock, the blinds, what's next, and the shot clock, with your structure, starting stack, players and prize pool one tap away. The button at the top switches between the hub and a big timer.
@@ -49,9 +45,9 @@ Your games, players and settings stay on your device. Sharing a room sends the l
 ### Does it work offline?
 The timer, players and payouts work without internet. Sharing a room needs a connection.
 
-## Report a bug
+## Still stuck?
 
-Email callahanapps@gmail.com with:
+Check the questions above first. If the answer isn't there, email [callahanapps@gmail.com](mailto:callahanapps@gmail.com?subject=Stackflow%20support) with:
 - What you were trying to do
 - What happened instead
 - Your device model and iOS version
