@@ -6,7 +6,7 @@ Stackflow Tournament Tracker: the poker night timer for iPhone and iPad. Free, n
 
 - **Home** is the hub: the clock, the blinds, what's next, and the shot clock, with your structure, starting stack, players and prize pool one tap away. The button at the top switches between the hub and a big timer.
 - **Structure** is your list of levels and breaks.
-- **AI** helps you set up a game by asking in plain words. It runs on your device and needs Apple Intelligence.
+- **Assistant** helps you set up a game by asking in plain words. It runs on your device and needs Apple Intelligence.
 - **Players** is tonight's table: who is in, rebuys, finishing order and payouts.
 - **Settings** has sounds, the shot clock, sharing, and these support links.
 

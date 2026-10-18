@@ -1,11 +1,11 @@
 # Privacy Policy
 
 **Stackflow**
-Last Updated: May 2026
+Last Updated: October 2026
 
 ## Overview
 
-Stackflow is an AI-powered poker night assistant developed by Ben Callahan. The AI runs entirely on your device using Apple Intelligence — your conversations, prompts, and game state stay private. This policy explains the data the app stores, the limited cases where data is transmitted, and what we never collect.
+Stackflow is a poker night companion developed by Ben Callahan. Its assistant runs entirely on your device using Apple Intelligence — your conversations, prompts, and game state stay private. This policy explains the data the app stores, the limited cases where data is transmitted, and what we never collect.
 
 ## What We Don't Collect
 
@@ -15,11 +15,11 @@ Stackflow is an AI-powered poker night assistant developed by Ben Callahan. The 
 - No third-party advertising
 - No data sold or shared with marketers
 
-## On-Device AI (Apple Intelligence)
+## On-Device Assistant (Apple Intelligence)
 
-Stackflow's AI features — tournament generation, voice control, poker math, hand evaluation, payout splits — run entirely on your device using Apple's Foundation Models framework, the same AI that powers Apple Intelligence. **No prompt, voice transcription, response, or game state ever leaves your device for AI processing.**
+Stackflow's assistant — tournament generation, voice control, poker math, hand evaluation, payout splits — runs entirely on your device using Apple's Foundation Models framework, the same model that powers Apple Intelligence. **No prompt, voice transcription, response, or game state ever leaves your device for processing.**
 
-- No network requests are made for AI features
+- No network requests are made for the assistant
 - No third-party AI provider is involved
 - No chat content, prompts, or responses are transmitted to any server
 - No usage tracking or rate limiting (none is needed; there's no remote cost)
@@ -59,7 +59,7 @@ If you do not use the Share & Join feature, no data is transmitted to Firebase o
 
 ## In-App Purchases
 
-Stackflow includes optional Tip the Dealer purchases (small, medium, and large) for users who want to support development. Apple processes these transactions; no purchase data is shared with us beyond Apple's standard receipt validation. Tipping is entirely optional and unlocks no app functionality.
+Stackflow has no in-app purchases and no subscriptions.
 
 ## Children's Privacy
 
