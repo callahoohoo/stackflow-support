@@ -57,9 +57,9 @@ This data is used solely to keep the participating devices in sync for one tourn
 
 If you do not use the Share & Join feature, no data is transmitted to Firebase or anywhere else.
 
-## In-App Purchases
+## Purchases
 
-Stackflow has no in-app purchases and no subscriptions.
+Any purchase goes through Apple. Stackflow never sees your payment details.
 
 ## Children's Privacy
 

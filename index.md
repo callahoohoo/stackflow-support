@@ -1,6 +1,6 @@
 # Stackflow Support
 
-Stackflow Tournament Tracker: the poker night timer for iPhone and iPad. Free, no account, and your games and players stay on your device.
+Stackflow Tournament Tracker: the poker night timer for iPhone and iPad.
 
 ## How Stackflow is laid out
 
@@ -36,8 +36,8 @@ Tap **Payouts** in Players. Pick how many places pay and the split, or let 2nd g
 ### Can I show the clock on another screen?
 Yes. In Settings, tap **Share to a TV or another device**, then **Host a room** and share the 4-character code. On the other device, tap **Join a room** and enter the code.
 
-### Does Stackflow cost anything?
-No. It is free and has no account.
+### Do I need an account?
+No. There is nothing to sign up for or sign in to.
 
 ### Where is my data kept?
 Your games, players and settings stay on your device. Sharing a room sends the live clock to the devices that join. Read the privacy policy for details.
